@@ -1,1 +1,2 @@
-"# Ajax懒加载新闻墙" 
+"# Ajax鎳掑姞杞界�戝竷娴佹柊闂诲" 
+https://figthforfree.github.io/Ajax-lazyLoad-news/.
